@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+onnxruntime
+librosa
+httpx
+python-dotenv
+python-multipart
+pydantic
+opencv-python
+numpy
