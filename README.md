@@ -275,7 +275,7 @@ cp Python/.env.template Python/.env
 # CAMERA_INDEX=0
 
 # Start service manually (or let C# app launch it via bat file):
-uvicorn anomalyApp:app --host 0.0.0.0 --port 5001
+uvicorn anomalyApp:app --host 0.0.0.0 --port 105
 ```
 
 ---
