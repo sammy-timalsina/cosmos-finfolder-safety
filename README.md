@@ -53,8 +53,6 @@ foundation was already solid.
 
 ---
 
----
-
 ## 💡 The Solution — Virtual AI Operator
 
 A two-layer safety system that mimics exactly how a human operator monitors the machine:
