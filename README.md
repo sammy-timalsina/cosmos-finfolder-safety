@@ -22,7 +22,6 @@ Customer demand requires the machine to run **after hours with no operator prese
 
 **We replaced that human operator with AI.**
 
----
 
 ## 🔧 Project Background
 
@@ -49,7 +48,6 @@ and running in an active manufacturing facility:
 **The result:** A battle-tested production safety system upgraded 
 with state-of-the-art AI vision in just 2 days — because the 
 foundation was already solid.
-```
 
 ---
 
