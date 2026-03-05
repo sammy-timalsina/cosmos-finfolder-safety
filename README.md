@@ -139,7 +139,7 @@ Purpose:         Real-time safety trigger
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                   Production Machine                     │
-│   Arducam OV9281 Camera        USB Microphone            │
+│   Arducam OV9281 Camera    SM57 dynamic microphone       │
 └──────────┬──────────────────────────┬───────────────────┘
            │                          │
            ▼                          ▼
@@ -381,10 +381,11 @@ To reproduce: spin up a new Brev instance, run the vLLM startup command above, a
 | Component | Specification |
 |-----------|---------------|
 | Camera | Arducam OV9281 100fps Mono Global Shutter USB |
-| Microphone | USB microphone |
+| Microphone | Shure SM57 Dynamic Microphone |
+| Audio Interface | Behringer UMC404HD USB Audio Interface |
 | Cloud GPU | NVIDIA A100 40GB via Brev.dev |
 | AI Model | NVIDIA Cosmos Reason 2 8B |
-| PLC Interface | Relay module via existing industrial control system |
+| PLC Interface | Allen-Bradley Control Logix PLC + custom relay retrofit|
 
 ---
 
