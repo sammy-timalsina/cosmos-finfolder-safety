@@ -6,8 +6,8 @@
 ---
 
 ## 🎥 Demo Video
-[Watch the full demo video here — https://1drv.ms/v/c/d73d578baf6e637c/IQDQpNMFA3pgQ6lPHwq9jpT5AV5ZpO84KE5jGaQiqT5u4kQ?e=aCitaI]
-https://1drv.ms/v/c/d73d578baf6e637c/IQDQpNMFA3pgQ6lPHwq9jpT5AV5ZpO84KE5jGaQiqT5u4kQ?e=aCitaI
+[Watch the full demo video here — https://www.youtube.com/watch?v=dUJR8VzJ6IQ]
+
 ---
 
 ## 🏆 The Problem
